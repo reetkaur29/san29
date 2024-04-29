@@ -1,8 +1,8 @@
 # san29
 <html>
-  <title>
+  
     new repository
-  </title>
+  
   <body>
     this is my new repository.
     <br>
@@ -10,9 +10,9 @@
       first repository is "hello"
       second repository is "san29"
       <br>
-      <style>
-        red this is main repository.
-      </style>
+      
+         this is main repository.
+    
       <br>
   </body>
 </html>
